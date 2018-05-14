@@ -1,9 +1,9 @@
-Find property information service on GOV.UK
+Service History Blank Template
 ===========================================
 
-Browse screenshots of the Find property information service on GOV.UK, organised by time and user scenario.
+Browse screenshots of a GOV.UK service, organised by time and user scenario.
 
-[http://landregistry.github.io/fpi-service-screens/](http://landregistry.github.io/fpi-service-screens/)
+[https://landregistry.github.io/template-service-history/](https://landregistry.github.io/template-service-history/)
 
 You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
 
@@ -44,14 +44,10 @@ Once you're done, don't forget to add a link to your version from the 'index.htm
 
 ## Attribution
 
-This tool is based on (and code cloned from) GDS Exemplar screens repo. 
+This tool is based on (and code cloned from) GDS Exemplar screens repo.
 
 ### Code History
 
 * https://github.com/AndyPorter/exemplar-screens (code cloned from)
 * https://github.com/claragt/exemplar-screens
 * https://github.com/alphagov/exemplar-screens
-
-
-
-
