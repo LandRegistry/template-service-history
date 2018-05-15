@@ -9,7 +9,7 @@ var data = {
 			"title": "User Journey (Scenario) 1",
 			"path": [{
 					"caption": "Start",
-					"imgref": "images/get-property-information/01-start-on-govuk.png",
+					"imgref": "images/01-start-on-govuk.png",
 					"note": [
 						"New service for basic searches",
 						"Not Green button (that's Find A Property - older service)"
@@ -17,12 +17,12 @@ var data = {
 				},
 				{
 					"caption": "Search",
-					"imgref": "images/get-property-information/02-search.png",
+					"imgref": "images/02-search.png",
 					"note": "Postcode only."
 				},
 				{
 					"caption": "Select address",
-					"imgref": "images/get-property-information/03-results.png",
+					"imgref": "images/03-results.png",
 					"note": [
 						"All the addresses in a postcode.",
 						"Up to 100 addresses",
@@ -32,7 +32,7 @@ var data = {
 				},
 				{
 					"caption": "Select property record (title)",
-					"imgref": "images/get-property-information/04-property-page.png",
+					"imgref": "images/04-property-page.png",
 					"note": [
 						"The property titles for an address *",
 						"* all that we can currently link to this address (percent?)",
@@ -43,13 +43,13 @@ var data = {
 				},
 				{
 					"caption": "Property title",
-					"imgref": "images/get-property-information/05-about-property-title.png",
+					"imgref": "images/05-about-property-title.png",
 					"note": "What you'll get if you continue"
 
 				},
 				{
 					"caption": "Tell us who you are",
-					"imgref": "images/get-property-information/06b-sign-in.png",
+					"imgref": "images/06b-sign-in.png",
 					"note": [
 						"Create an account or sign-in",
 						"Create account more likely - 70% to 30%",
@@ -58,29 +58,29 @@ var data = {
 				},
 				{
 					"caption": "Confirm property title wanted",
-					"imgref": "images/get-property-information/07-confirm-purchase.png",
+					"imgref": "images/07-confirm-purchase.png",
 					"note": [
 						"What you're getting when you pay"
 					]
 				},
 				{
 					"caption": "Payment - part 1",
-					"imgref": "images/get-property-information/08-worldpay-1.png",
+					"imgref": "images/08-worldpay-1.png",
 					"note": "Select card"
 				},
 				{
 					"caption": "Payment - part 2",
-					"imgref": "images/get-property-information/08-worldpay-2.png",
+					"imgref": "images/08-worldpay-2.png",
 					"note": "card details"
 				},
 				{
 					"caption": "Payment - part 3",
-					"imgref": "images/get-property-information/08-worldpay-3.png",
+					"imgref": "images/08-worldpay-3.png",
 					"note": "Confirmation"
 				},
 				{
 					"caption": "Summary details",
-					"imgref": "images/get-property-information/09-summary.png",
+					"imgref": "images/09-summary.png",
 					"note": [
 						"PDF version to 'take away'",
 						"can view this for an hour, but cannot reaccess this again without paying"
@@ -88,7 +88,7 @@ var data = {
 				},
 				{
 					"caption": "What next?",
-					"imgref": "images/get-property-information/10-signout.png",
+					"imgref": "images/10-signout.png",
 					"note": [
 						"Sign out is one thing you can do after viewing the summary"
 					]
@@ -100,7 +100,7 @@ var data = {
 			"title": "User Journey (Scenario) 2",
 			"path": [{
 					"caption": "Start",
-					"imgref": "images/get-property-information/01-start-on-govuk.png",
+					"imgref": "images/01-start-on-govuk.png",
 					"note": [
 						"New service for basic searches",
 						"Not Green button (that's Find A Property - older service)"
@@ -108,12 +108,12 @@ var data = {
 				},
 				{
 					"caption": "Search",
-					"imgref": "images/get-property-information/02-search.png",
+					"imgref": "images/02-search.png",
 					"note": "Postcode only."
 				},
 				{
 					"caption": "Select address",
-					"imgref": "images/get-property-information/03-results.png",
+					"imgref": "images/03-results.png",
 					"note": [
 						"All the addresses in a postcode.",
 						"Up to 100 addresses",
@@ -123,7 +123,7 @@ var data = {
 				},
 				{
 					"caption": "Select property record (title)",
-					"imgref": "images/get-property-information/04-property-page.png",
+					"imgref": "images/04-property-page.png",
 					"note": [
 						"The property titles for an address *",
 						"* all that we can currently link to this address (percent?)",
@@ -134,13 +134,13 @@ var data = {
 				},
 				{
 					"caption": "Property title",
-					"imgref": "images/get-property-information/05-about-property-title.png",
+					"imgref": "images/05-about-property-title.png",
 					"note": "What you'll get if you continue"
 
 				},
 				{
 					"caption": "Tell us who you are",
-					"imgref": "images/get-property-information/06b-sign-in.png",
+					"imgref": "images/06b-sign-in.png",
 					"note": [
 						"Create an account or sign-in",
 						"Create account more likely - 70% to 30%",
@@ -149,29 +149,29 @@ var data = {
 				},
 				{
 					"caption": "Confirm property title wanted",
-					"imgref": "images/get-property-information/07-confirm-purchase.png",
+					"imgref": "images/07-confirm-purchase.png",
 					"note": [
 						"What you're getting when you pay"
 					]
 				},
 				{
 					"caption": "Payment - part 1",
-					"imgref": "images/get-property-information/08-worldpay-1.png",
+					"imgref": "images/08-worldpay-1.png",
 					"note": "Select card"
 				},
 				{
 					"caption": "Payment - part 2",
-					"imgref": "images/get-property-information/08-worldpay-2.png",
+					"imgref": "images/08-worldpay-2.png",
 					"note": "card details"
 				},
 				{
 					"caption": "Payment - part 3",
-					"imgref": "images/get-property-information/08-worldpay-3.png",
+					"imgref": "images/08-worldpay-3.png",
 					"note": "Confirmation"
 				},
 				{
 					"caption": "Summary details",
-					"imgref": "images/get-property-information/09-summary.png",
+					"imgref": "images/09-summary.png",
 					"note": [
 						"PDF version to 'take away'",
 						"can view this for an hour, but cannot reaccess this again without paying"
@@ -179,7 +179,7 @@ var data = {
 				},
 				{
 					"caption": "What next?",
-					"imgref": "images/get-property-information/10-signout.png",
+					"imgref": "images/10-signout.png",
 					"note": [
 						"Sign out is one thing you can do after viewing the summary"
 					]
