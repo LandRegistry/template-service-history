@@ -18,7 +18,9 @@ var data = {
 				{
 					"caption": "Search",
 					"imgref": "images/02-search.png",
-					"note": "Postcode only."
+					"note": [
+						"Postcode only."
+					]
 				},
 				{
 					"caption": "Select address",
@@ -44,7 +46,9 @@ var data = {
 				{
 					"caption": "Property title",
 					"imgref": "images/05-about-property-title.png",
-					"note": "What you'll get if you continue"
+					"note": [
+						"What you'll get if you continue"
+					]
 
 				},
 				{
@@ -66,17 +70,23 @@ var data = {
 				{
 					"caption": "Payment - part 1",
 					"imgref": "images/08-worldpay-1.png",
-					"note": "Select card"
+					"note": [
+						"select card"
+					]
 				},
 				{
 					"caption": "Payment - part 2",
 					"imgref": "images/08-worldpay-2.png",
-					"note": "card details"
+					"note": [
+						"card details"
+					]
 				},
 				{
 					"caption": "Payment - part 3",
 					"imgref": "images/08-worldpay-3.png",
-					"note": "Confirmation"
+					"note": [
+						"Confirmation"
+					]
 				},
 				{
 					"caption": "Summary details",
@@ -87,13 +97,20 @@ var data = {
 					]
 				},
 				{
+					"caption": "extra-step",
+					"imgref": "images/09-summary.png",
+					"note": [
+						"Here is a example note'",
+						"can view this for an hour, but cannot reaccess this again without paying"
+					]
+				},
+				{
 					"caption": "What next?",
 					"imgref": "images/10-signout.png",
 					"note": [
 						"Sign out is one thing you can do after viewing the summary"
 					]
-				}
-
+				},
 			]
 		},
 		{
@@ -109,7 +126,9 @@ var data = {
 				{
 					"caption": "Search",
 					"imgref": "images/02-search.png",
-					"note": "Postcode only."
+					"note": [
+						"Postcode only."
+					]
 				},
 				{
 					"caption": "Select address",
@@ -135,8 +154,9 @@ var data = {
 				{
 					"caption": "Property title",
 					"imgref": "images/05-about-property-title.png",
-					"note": "What you'll get if you continue"
-
+					"note": [
+						"What you'll get if you continue"
+					]
 				},
 				{
 					"caption": "Tell us who you are",
@@ -157,17 +177,23 @@ var data = {
 				{
 					"caption": "Payment - part 1",
 					"imgref": "images/08-worldpay-1.png",
-					"note": "Select card"
+					"note": [
+						"Select card"
+					]
 				},
 				{
 					"caption": "Payment - part 2",
 					"imgref": "images/08-worldpay-2.png",
-					"note": "card details"
+					"note": [
+						"card details"
+					]
 				},
 				{
 					"caption": "Payment - part 3",
 					"imgref": "images/08-worldpay-3.png",
-					"note": "Confirmation"
+					"note": [
+						"Confirmation"
+					]
 				},
 				{
 					"caption": "Summary details",
@@ -183,9 +209,9 @@ var data = {
 					"note": [
 						"Sign out is one thing you can do after viewing the summary"
 					]
-				}
-
+				},
 			]
-		}
+		},
+		//ADD EXTRA USER JOURNEYS DIRECTLY BELOW THIS TEXT
 	]
 }
