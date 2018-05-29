@@ -178,7 +178,6 @@ var data = {
 					"caption": "Payment - part 1",
 					"imgref": "images/08-worldpay-1.png",
 					"note": [
-						"Select card"
 					]
 				},
 				{
